@@ -1,0 +1,16 @@
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\bin\Debug\SaveImagetoSQLServer.exe.config
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\bin\Debug\SaveImagetoSQLServer.exe
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\bin\Debug\SaveImagetoSQLServer.pdb
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.csprojResolveAssemblyReference.cache
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.Form1.resources
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.Properties.Resources.resources
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.csproj.GenerateResource.Cache
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.exe
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.pdb
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.FArtysci.resources
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.EdycjaRekordu.resources
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.klienci.resources
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.Zamowienia.resources
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.Artysta.resources
+C:\Users\turem\source\repos\SaveImagetoSQLServer\SaveImagetoSQLServer\obj\Debug\SaveImagetoSQLServer.Obrazy.resources

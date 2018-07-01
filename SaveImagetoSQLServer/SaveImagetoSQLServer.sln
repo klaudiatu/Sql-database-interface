@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveImagetoSQLServer", "SaveImagetoSQLServer\SaveImagetoSQLServer.csproj", "{DB31B87C-C5C1-475F-8DF9-70FB7402FFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB31B87C-C5C1-475F-8DF9-70FB7402FFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB31B87C-C5C1-475F-8DF9-70FB7402FFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB31B87C-C5C1-475F-8DF9-70FB7402FFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB31B87C-C5C1-475F-8DF9-70FB7402FFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B68DA91A-8C12-4F53-B48E-E8DC7C1699E6}
+	EndGlobalSection
+EndGlobal
